@@ -1,0 +1,48 @@
+A ;A01 ;STOMATOLOGICAL PREPARATIONS ;0
+A01 ;A01A ;STOMATOLOGICAL PREPARATIONS ;0
+A01A ;A01AA ;Caries prophylactic agents ;0
+A01AA ;A01AA01 ;sodium fluoride ;1
+A01AA ;A01AA02 ;sodium monofluorophosphate ;1
+A01AA ;A01AA03 ;olaflur ;1
+A01AA ;A01AA04 ;stannous fluoride ;1
+A01AA ;A01AA30 ;combinations ;1
+A01AA ;A01AA51 ;sodium fluoride, combinations ;1
+A01A ;A01AB ;Antiinfectives and antiseptics for local oral treatment ;0
+A01AB ;A01AB02 ;hydrogen peroxide ;1
+A01AB ;A01AB03 ;chlorhexidine ;1
+A01AB ;A01AB04 ;amphotericin B ;1
+A01AB ;A01AB05 ;polynoxylin ;1
+A01AB ;A01AB06 ;domiphen ;1
+A01AB ;A01AB07 ;oxyquinoline ;1
+A01AB ;A01AB08 ;neomycin ;1
+A01AB ;A01AB09 ;miconazole ;1
+A01AB ;A01AB10 ;natamycin ;1
+A01AB ;A01AB11 ;various ;1
+A01AB ;A01AB12 ;hexetidine ;1
+A01AB ;A01AB13 ;tetracycline ;1
+A01AB ;A01AB14 ;benzoxonium chloride ;1
+A01AB ;A01AB15 ;tibezonium iodide ;1
+A01AB ;A01AB16 ;mepartricin ;1
+A01AB ;A01AB17 ;metronidazole ;1
+A01AB ;A01AB18 ;clotrimazole ;1
+A01AB ;A01AB19 ;sodium perborate ;1
+A01AB ;A01AB21 ;chlortetracycline ;1
+A01AB ;A01AB22 ;doxycycline ;1
+A01AB ;A01AB23 ;minocycline ;1
+A01AB ;A01AB24 ;octenidine ;1
+A01AB ;A01AB25 ;oxytetracycline ;1
+A01A ;A01AC ;Corticosteroids for local oral treatment ;0
+A01AC ;A01AC01 ;triamcinolone ;1
+A01AC ;A01AC02 ;dexamethasone ;1
+A01AC ;A01AC03 ;hydrocortisone ;1
+A01AC ;A01AC04 ;prednisolone ;1
+A01AC ;A01AC54 ;prednisolone, combinations ;1
+A01A ;A01AD ;Other agents for local oral treatment ;0
+A01AD ;A01AD01 ;epinephrine ;1
+A01AD ;A01AD02 ;benzydamine ;1
+A01AD ;A01AD05 ;acetylsalicylic acid ;1
+A01AD ;A01AD06 ;adrenalone ;1
+A01AD ;A01AD07 ;amlexanox ;1
+A01AD ;A01AD08 ;becaplermin ;1
+A01AD ;A01AD11 ;various ;1
+A ;A02 ;DRUGS FOR ACID RELATED DISORDERS ;0

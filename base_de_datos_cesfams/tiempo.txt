@@ -1,0 +1,1 @@
+96.38941531181335: minutos transcurridos desde el traspasando datos desde excel a la base de datos
